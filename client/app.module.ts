@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import {MovieService} from './movie/movie.service';
 import { HttpClientModule } from '@angular/common/http';
 import { MovieListComponent } from './movie-list/movie-list.component';
-
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -14,7 +14,8 @@ import { MovieListComponent } from './movie-list/movie-list.component';
   ],
   imports: [
     BrowserModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [MovieService],
   bootstrap: [AppComponent]
