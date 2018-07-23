@@ -239,9 +239,145 @@ C.	Provider business assets
 D.	Predicted business architecture
 B
 
+255 What BEST describes the value of service operation to the business?
 
+A.	It supports the creation of a portfolio of quantified services
+B.	It ensures IT services are continuously aligned to business requirements
+C.	It defines the control of service assets and configurations
+D.	It reduces the duration and frequency of service outages
+D
 
+258 Which one of the following answers shows two of the activities relating to tools that will take place during the transition stage of the service lifecycle?
 
+A.	Testing the tool and training process managers on using the process
+B.	Development or purchase of tools and deployment of the tools
+C.	Training tool administrators how to manage tools and monitoring tool performance in operational environment
+D. Development or purchase of tools and deployment of the process
+D
+
+259 Which three types of metric support Continual Service Improvement (CSI) activities?
+
+A. Technology metrics, service desk metrics and Key Performance Indicator (KPI) metrics
+B. Process metrics, software metrics and financial metrics
+C. Technology metrics, process metrics and service metrics
+D. Service metrics, technology metrics and Key Performance Indicator (KPI) metrics
+C
+
+260 Which of the following are CORRECT Service Design Aspects?
+1.	Service Solutions for new or changed services
+2.	Management policies and guidelines
+3.	Business requirements technology and management architectures
+4.	Process requirements technology and management architectures
+
+A.	1 and 2
+B.	2 and 3
+C.	3 and 4
+D.	1 and 4
+D
+
+261 Which stage of the service lifecycle includes the scope of service retirement and transfer of services between service providers?
+
+A.	Service transition
+B.	Service level management
+C.	Service operation
+D.	Service design
+A
+
+263 Which is an objective of the design coordination process?
+
+A.	To ensure service design packages are handed over to service transition
+B.	To ensure that all changes are assessed for their impact on service designs
+C.	To	document the initial structure and relationship between services and customers
+D.	To handover new service level requirements to the service level management process
+A
+
+267 Which is the CORRECT activity to carry out the “How do we get there” phase of the Continual Service improvement approach?
+
+A.	Service and process improvement
+B.	Baseline assessments
+C.	Policy and governance review
+D.	Measurable targets
+A
+
+268 An incident is proving difficult to resolve. A technician informs their manager that more resource is needed to restore the service. What has taken place?
+
+A.	A functional escalation
+B.	A service level escalation
+C.	An incident resolution
+D.	A hierarchic escalation
+D
+
+272 What term describes assurance that a product or service will meet its agreed requirements?
+
+A. Underpinning contract
+B. Warranty
+C. Service level agreement
+D. Utility
+B
+
+274 Which is an objective of the service design lifecycle stage?
+
+A. To embed continual service improvement (CSI) in all service design activities
+B. To ensure that all service design activities use the minimum amount of resources
+C. To monitor service level targets as agreed in service level agreements
+D. To create and maintain a portfolio of quantified service
+A
+
+276 Which is an example of improving service utility using service management automation?
+
+A. Pre-determined routing of a service request
+B. Reducing the time to compile service data
+C. Monitoring service availability
+D. Faster resource allocation
+d
+
+277 Which is the CORRECT list of metrics to support CSI activities?
+
+A. Technology, customer and business
+B. Business, service and technology
+C. Customer, business and process
+D. Process, technology and service
+D
+
+279 Which is the CORRECT list of the three levels of a multi-level service level agreement (SLA)?
+
+A. Technology, customer, user
+B. Corporate, customer, service
+C. Corporate, customer, technology
+D. Service, user, IT
+B
+
+280 What does the term “Wisdom” represent within the Data-to-Information-to-Knowledge-to-Wisdom (DIKW)?
+
+A. The complete collection of all data and data repositories in the organization
+B. The knowledge to manage organization processes and people
+C. The complete collection of all process management structures in the organization
+D. The contextual awareness to provide strong common sense judgement
+D
+
+284 Which statement about the known error database (KEDB) is CORRECT?
+
+A. It is maintained by the service desk and updated with the details of each new incident
+B. It is a part of the configuration management database (CMDB) and contains workarounds
+C. It is maintained by problem management and is used by the service desk to help resolve incidents
+D. It is maintained by incident management and contains solutions to be implemented by problem management
+C
+
+286 Which is one of the five aspects of service design?
+
+A. Management information systems and tools
+B. Risk analysis and management approach
+C. Management policy for business case creation
+D. Corporate governance and policy
+A
+
+290 Which of the following is an example of proactive problem management?
+
+A. Automated detection of an infrastructure or application fault, using event/alert tools automatically to raise an incident
+B. Analysis of an incident by a technical support group which revels that an underlying problem exists, or is likely to exist
+C. Suspicion or detection of a cause of one or more incidents by the service desk
+D. Trending of historical incident records to identify one or more underlying causes
+B
 
 
 
