@@ -379,6 +379,103 @@ C. Suspicion or detection of a cause of one or more incidents by the service des
 D. Trending of historical incident records to identify one or more underlying causes
 B
 
+295 Access management is responsible for executing the policies that are defined in which process?
+
+A. Service portfolio management
+B. Information security management
+C. Change management
+D. Problem management
+B
+
+296 Which term describes if a service is fit for use?
+
+A. Serviceability
+B. Utility
+C. Warranty
+D. Availability
+C
+
+302 Which statement BEST describes the stakeholders in service management?
+
+A. A stakeholder can only be the customer of a service
+B. A stakeholder is any individual or group that has invested their money and time in the services
+C. A stakeholder can only be the provider of a service
+D. A stakeholder is any individual or group who has an interest in the management of the services
+D
+
+303 Which statement BEST describes the purpose of release and deployment management?
+
+A. To deliver the functionality required by the business while protecting the integrity of existing services
+B. To ensure that each release package specified by service design consists of a set of related assets and service components
+C. To ensure that all changes can be tracked, tested and verified if appropriate.
+D. To record and manage deviations, risks and issues related to the new or changed service
+A
+
+340 Which of the following statements about processes is INCORRECT?
+
+A. The output from a process has to conform to operational norms derived from business objectives
+B. The objective of any IT process should be expressed in terms of business benefits and goals
+C. A process may define policies, standards and guidelines
+D. The definition of Process Control is “The activity of planning and regulating a process, with the objective of achieving Best Practice”
+D
+
+343 Who is responsible for ensuring that the Request Fulfillment process is being performed according to the agreed and documented process?
+
+A. The Service Desk Manager
+B. The Service Manager
+C. The Request Fulfillment Process Manager
+D. The Request Fulfillment Process Owner
+D
+
+345 Which is the first step in the 7 Step Improvement Process?
+
+A. Where are we now?
+B. Identify gaps in Service Level Agreement (SLA) achievement
+C. Prepare for action
+D. Define what you should measure
+D
+
+
+346 Which of these is NOT a responsibility of Application Management?
+
+A. Ensuring that the correct skills are available to manage the infrastructure
+B. Providing guidance to IT Operations about how best to manage the application
+C. Deciding whether to buy or build an application
+D. Assisting in the design of the application
+A
+
+347 In Service Operation, if too much emphasis is placed on ‘Stability’, what might the likely outcome be in terms of responsiveness to customer needs?
+
+A. Customers needs will be met more easily because of the improved stability of the services with fewer failures to disrupt timely delivery
+B. From the information given, it is not possible to comment regarding the impact on responsiveness of over-emphasis on stability
+C. There is only likely to be a positive outcome from improved stability – the customers must be made fully aware of this and their expectations regarding responsiveness must be managed
+D. It is possible that responsiveness may suffer and customers needs may not be met within business timescales
+D
+
+349 Which of the following is NOT part of the Service Design phase of the Service Lifecycle?
+
+A. Produce quality, secure and resilient designs for new or improved services, technology architecture, processes or measurement systems that meet all the agreed current and future IT requirements of the organization.
+B. Take the overall Service Strategies and ensure they are reflected in the Service Design process and the service designs that are produced
+C. Produce and maintain all necessary Service Transition packages
+D. Measuring the effectiveness and efficiency of Service Design and the supporting processes
+C
+
+350 Contracts relating to an outsourced Data Centre would be managed by?
+
+A. Service Desk
+B. IT Operations Control
+C. Technical Management
+D. Facilities Management
+D
+
+
+
+
+
+
+
+
+
 
 
 
