@@ -107,3 +107,110 @@ Mark one answer:
  An agreement that covers one service for all customers of that service
  D
  
+ Q:1-Which of the following would be examined by a major problem review?
+1. Things that were done correctly
+2. Things that were done incorrectly
+3. How to prevent recurrence
+4. What could be done better in the future
+Mark one answer:
+ 1 only
+ 2 and 3 only
+ 1, 2 and 4 only
+ All of the above
+D
+
+Q:2-Which one of the following generates demand for services?
+Mark one answer:
+ Infrastructure trends
+ Patterns of business activity (PBA)
+ Cost of providing support
+ Service level agreements (SLA)
+B
+
+Q:5-In which of the following should details of a workaround be documented?
+Mark one answer:
+ The service level agreement (SLA)
+ The problem record
+ The availability management information system
+ The IT service plan
+B
+
+Q:6-Which areas of service management can benefit from automation?
+1. Design and modeling
+2. Reporting
+3. Pattern recognition and analysis
+4. Detection and monitoring
+Mark one answer:
+ 1, 2 and 3 only
+ 1, 3 and 4 only
+ 2, 3 and 4 only
+ All of the above
+
+Q:7-What is the primary focus of the business management?
+Mark one answer:
+ Management, control and prediction of the performance, utilization and capacity of individual elements of IT technology
+ Review of all capacity supplier agreements and underpinning contracts with supplier management
+ Management, control and prediction of the end-to-end performance and capacity of the live, operational IT services
+ Future business requirements for IT services are quantified, designed, planned and implemented in a timely fashion
+
+Q:8-Which of the following are sources of best practice?
+1. Academic research
+2. Internal experience
+3. Industry practices
+Mark one answer:
+ All of the above
+ 1 and 3 only
+ 1 and 2 only
+ 2 and 3 only
+
+Q:9-Which one of the following is NOT a responsibility of the service transaction stage of the service life cycle?
+Mark one answer:
+ To ensure that a service managed and operated accordance with constraints specified during design
+ To design and develop capabilities for service management
+ To provide good-quality knowledge and information about services
+ To plan the resources required to manage a release
+
+Q:10-What is the BEST description of an operational level agreement (OLA)?
+Mark one answer:
+ An agreement between the service provider and another part of the same organization
+ An agreement between the service provider and an external organization
+ A document that describes to a customer how services will be operated on a day-to-day basis
+ A document that describes business services to operational staff
+A
+
+Q:3-In terms of adding value to the business, which one of the following describes service operation's contribution?
+Mark one answer:
+ The cost of the service is designed, predicted and validated
+ Measures for optimization are identified
+ Service value is modeled
+ Service value is visible to customers
+D
+
+Q:5-Which of the following activities are performed by a desk?
+1. Logging details of incidents and service requests
+2. Providing first-line investigation and diagnosis
+3. Restoring service
+4. Implementing all standard changes
+Mark one answer:
+ All of the above
+ 1, 2 and 3 only
+ 2 and 4 only
+ 3 and 4 only
+ B
+
+Q:10-Which of the following are managed by facilities management?
+1. Hardware within a data centre or computer room
+2. Applications
+3. Power and cooling equipment
+4. Recovery sites
+Mark one answer:
+ 1, 2 and 3 only
+ All of the above
+ 1, 3 and 4 only
+ 1 and 3 only
+ C
+ 
+ 
+ 
+ 
+ 
