@@ -210,7 +210,69 @@ Mark one answer:
  1 and 3 only
  C
  
- 
+ Q:1-Which of the following should IT service continuity strategy be based on?
+1. Design of the service metrics
+2. Business continuity strategy
+3. Business impact analysis (BIA)
+4. Risk assessment
+Mark one answer:
+ 1, 2 and 4 only
+ 1, 2 and 3 only
+ 2, 3 and 4 only
+ 1, 3 and 4 only
+C
+
+Q:3-In which of the following areas would ITIL complementary guidance provide assistance?
+1. Adapting best practice for specific industry sectors
+2. Integrating ITIL with other operating models
+Mark one answer:
+ Both of the above
+ Neither of the above
+ Option 1 only
+ Option 2 only
+A
+
+Q:4-Which one of the following statements is CORRECT?
+Mark one answer:
+ The configuration management system is part of the known error database
+ The service knowledge management system is part of the configuration management system
+ The configuration management system is part of the service knowledge management system
+ The configuration management system is part of the configuration management database
+C
+
+Q:6-Which of the following is NOT an objective of Continual Service Improvement?
+Mark one answer:
+ Review and analyze Service Level Achievement results
+ Identify activities to improve the efficiency of service management processes
+ Improve the cost effectiveness of IT services without sacrificing customer satisfaction
+ Conduct activities to deliver and manage services at agreed levels to business users
+D
+
+Q:8-Which of the following provide value to the business from service strategy?
+1. Enabling the service provider to have a clear understanding of what levels of service will make their customer's successful
+2. Enabling the service provider to respond quickly and effectively to changes in the business environment
+3. Reduction in the duration and frequency of service outages
+Mark one answer:
+ All of the above
+ 1 and 3 only
+ 1 and 2 only
+ 2 and 3 only
+C
+
+Q:9-Which process is responsible for low risk, frequently occurring, low cost changes?
+Mark one answer:
+ Demand management
+ Incident management
+ Release and deployment management
+ Request fulfillment
+ D
+
+Q:10-Which function or process would provide staff to monitor events in an operations bridge?
+Mark one answer:
+ Technical management
+ IT operations management
+ Request fulfillment
+ Applications management 
  
  
  
