@@ -274,5 +274,45 @@ Mark one answer:
  Request fulfillment
  Applications management 
  
+
+Q:3-Which of the following statements MOST correctly identifies the scope of design coordination activities?
+Mark one answer:
+ Only changes that introduce new services
+ It is mandatory that all changes are subject to design coordination activity
+ Only changes to business critical systems
+ Any change that the organization believes could benefit
+D
+
+Q:4-Which one of the following is concerned with policy and direction?
+Mark one answer:
+ Capacity management
+ Governance
+ Service design
+ Service level management
+B
+
+
+Q:6-Which of the following statements BEST describes the aims of release and deployment management?
+Mark one answer:
+ To build, test and deliver the capability to provide the services specified by servicedesign
+ To ensure that each release package specified by service design consists of a set of related assets and service components
+ To ensure that all changes can be tracked, tested and verified if appropriate
+ To record and manage deviations, risks and issues related to the new or changed service
+A
+
+Q:4-The remediation plan should be evaluated at what point in the change life cycle?
+Mark one answer:
+ Before the change is approved
+ Immediately after the change has failed and needs to be backed out
+ After implementation but before the post implementation review
+ After the post implementation review has identified a problem with the change
+ A
  
+ Q:10-Which process is responsible for ensuring that appropriate testing takes place?
+Mark one answer:
+ Knowledge management
+ Release and deployment management
+ Service asset and configuration management
+ Service level management
+ B
  
