@@ -374,3 +374,21 @@ Mark one answer:
 C
 
 ============= 9 ==============
+
+Q:2-Understanding what to measure and why it is being measured are key contributors to which part of the Service Lifecycle?
+Mark one answer:
+ Service Strategy.
+ Continual Service Improvement.
+ Service Operation.
+ Service Design.
+D
+
+Q:5-Which one of the following statements about incident reporting and logging is CORRECT?
+Mark one answer:
+ Incidents can only be reported by users.
+ Incidents can be reported by anyone who detects a disruption or potential disruption to normal service.
+ All calls to the service desk must be logged as incidents.
+ Incidents reported by technical staff must also be logged as problems.
+B
+
+============= 10 ==============
