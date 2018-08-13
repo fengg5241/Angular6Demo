@@ -316,3 +316,61 @@ Mark one answer:
  Service level management
  B
  
+ ============8 ===========
+ Q:1-Which process is responsible for sourcing and delivering components of requested standard services?
+Mark one answer:
+ Request fulfillment
+ Service portfolio management
+ Service desk
+ IT finance
+A
+
+Q:2-Which of the following is NOT one of the five individual aspects of service design?
+Mark one answer:
+ The design of the service portfolio, including the service catalogue
+ The design of new or changed services
+ The design of market spaces
+ The design of the technology architectures
+C
+
+Q:3-What are underpinning contracts used to document?
+Mark one answer:
+ The provision of IT services or business services by a service provider
+ The provision of goods and services by third party suppliers
+ Service levels that have been agreed between the internal service provider and their customer
+ Metrics and critical success factors (CSFs) for internal support teams
+B
+
+Q:4-The effective management of risk requires specific types of action. Which of the following pairs of actions would be BEST to manage risk?
+Mark one answer:
+ Training in risk management for all staff and identification of risks
+ Identification of risk, analysis and management of the exposure to risk
+ Control of exposure to risk and investment of capital
+ Training of all staff and investment of capital
+B
+
+Q:7-Which one of the following provides the CORRECT list of processes within the service operation stage of the service lifecycle?
+Mark one answer:
+ Event management, incident management, problem management, request fulfillment, and access management
+ Event management, incident management, change management, and access management
+ Incident management, problem management, service desk, request fulfillment, and event management
+ Incident management, service desk, request fulfillment, access management, and event management
+A
+
+Q:8-Which one of the following is an objective of service catalogue management?
+Mark one answer:
+ Negotiating and agreeing service level agreement
+ Negotiating and agreeing operational level agreements
+ Ensuring that the service catalogue is made available to those approved to access it
+ Only ensuring that adequate technical resources are available
+C
+
+Q:9-Which statement about the emergency change advisory board (ECAB) is CORRECT?
+Mark one answer:
+ The ECAB considers every high priority request for change (RFC)
+ Amongst the duties of the ECAB is the review of completed emergency changes
+ The ECAB will be used for emergency changes where there may not be time to call a full CAB
+ The ECAB will be chaired by the IT Director
+C
+
+============= 9 ==============
