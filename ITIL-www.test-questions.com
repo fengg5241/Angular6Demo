@@ -392,3 +392,29 @@ Mark one answer:
 B
 
 ============= 10 ==============
+Q:1-What are the three types of metrics that an organization shouldcollect to support continual service improvement (CSI)?
+Mark one answer:
+ Return on investment (ROI), value on investment (VOI), quality
+ Strategic, tactical and operational
+ Critical success factors (CSFs), key performance indicators (KPIs), activities
+ Technology, process and service
+D
+
+Q:3-Which one of the following does service metrics measure?
+Mark one answer:
+ Functions
+ Maturity and cost
+ The end-to-end service
+ Infrastructureavailability
+C
+
+Q:5-Which process is responsible for recording the current details, status, interfaces and dependencies of all services that are being run or being prepared to run in the live environment?
+Mark one answer:
+ Service level management.
+ Service catalogue management.
+ Demand management.
+ Service transition.
+B
+============= 11 ==============
+
+
